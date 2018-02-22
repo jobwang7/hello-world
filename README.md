@@ -1,2 +1,3 @@
 # hello-world
-first project
+First Project
+Update readme file
